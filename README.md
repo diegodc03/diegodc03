@@ -1,6 +1,11 @@
 ### Hi there 👋
 
   - 🌱 I’m currently learning Python
+
+
+![diegodc03's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegodc03&show_icons=true&theme=radical)
+
+
 <!--
 **diegodc03/diegodc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
