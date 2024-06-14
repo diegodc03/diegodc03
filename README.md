@@ -1,8 +1,14 @@
 <h3>Hi 👋, I'm Diego de Castro Merillas,a student of Computer Engineering at the University of Salamanca.</h3>
 
+
   - 🌱 I am currently carrying out projects to improve my skills
 
 </br>
+
+<div display: flex;>
+  <img src="https://github.com/diegodc03/diegodc03/blob/main/pexels-luis-gomes-166706-546819.jpg" width=47%>
+  <img src="https://github.com/diegodc03/diegodc03/blob/main/server-7014602_1280.jpg" width=47%>
+</div>
 
 
 ## 🖥️​ Languages and Tools:
