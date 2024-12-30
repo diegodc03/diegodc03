@@ -37,7 +37,7 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black)
 ![Visual Studio COde](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/31534bbb-a43a-4265-b64b-8d5aea5aee4d/deploy-status)](https://app.netlify.com/sites/cwac-meets-control/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/31534bbb-a43a-4265-b64b-8d5aea5aee4d/deploy-status)]([https://app.netlify.com/sites/cwac-meets-control/deploys](https://cwac-meets-control.netlify.app/))
 
 
 
