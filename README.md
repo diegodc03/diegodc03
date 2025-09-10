@@ -28,6 +28,9 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=black) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
   <h6>Tools</h6>
 
@@ -35,8 +38,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black)
-![Visual Studio COde](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&labelColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
+![Jenkings](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?&style=plastic&logo=Kibana&logoColor=white)
 
 
 
@@ -48,14 +53,8 @@
   <a href="https://linkedin.com/in/diegodcm">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=black" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/diegodecastrom1">
-    <img src="https://img.shields.io/badge/x%2FTwitter-%23000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black" alt="X/Twitter">
-  </a>
   <a href="https://instagram.com/bermee_16">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black" alt="Instagram">
-  </a>
-  <a href="https://discord.gg/482473776785653760">
-    <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black" alt="Discord">
   </a>
 </div>
 
